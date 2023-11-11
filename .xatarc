@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://Daniel-s-workspace-eciqic.eu-central-1.xata.sh/db/jobs-board-demo",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}
